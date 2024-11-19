@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎂Im 20<br>🤓Frontend<br>🔥HTML5 & CSS3 & JS & REACT & TypeScript<br>😎 Interesed in: Frontend, Gym, Gaming, Star Wars, Music<br>🧑‍🚀 Site: in progress...<br>
+🎂Im 21<br>🤓Frontend<br>🔥HTML5 & CSS3 & JS & REACT & TypeScript<br>😎 Interesed in: Frontend, Gym, Gaming, Star Wars, Music<br>🧑‍🚀 Site: in progress...<br>
 
 
 ## 🌐 Socials:
