@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/04/pjimage-24-1.jpg" />
+  <img height="370" src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/04/pjimage-24-1.jpg" />
 
 </div>
 
