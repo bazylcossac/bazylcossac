@@ -44,10 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/bazylcossac/bazylcossac/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/bazylcossac/count.svg?"  />
 </div>
