@@ -1,6 +1,6 @@
 <div align="center">
   <img height="370" src="https://www.dice.com/binaries/content/gallery/dice/insights/2020/02/JavaScript-Reddit-Meme-1024x576.jpg" />
-<!--   <img height="370" src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/04/pjimage-24-1.jpg" /> -->
+
 
 </div>
 
