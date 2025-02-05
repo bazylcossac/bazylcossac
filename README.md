@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="370" src="https://www.dice.com/binaries/content/gallery/dice/insights/2020/02/JavaScript-Reddit-Meme-1024x576.jpg" />
+<!--   <img height="370" src="https://www.dice.com/binaries/content/gallery/dice/insights/2020/02/JavaScript-Reddit-Meme-1024x576.jpg" /> -->
+      <img height="370" src="https://github.com/user-attachments/assets/744a3a63-3a5c-4782-95ef-943e8ada4345" />
 
 
 </div>
