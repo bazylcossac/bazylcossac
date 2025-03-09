@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dzeksoncoding" target="blank"><img src="https://img.shields.io/twitter/follow/dzeksoncoding?logo=twitter&style=for-the-badge" alt="dzeksoncoding" /></a> </p>
 
-- 🔭 I’m currently working on **TIFY.dev**
+- 🔭 I’m currently working on **...**
 
 - 📝 I regularly write articles on [https://x.com/dzeksoncoding](https://x.com/dzeksoncoding)
 
