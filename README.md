@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/dzeksoncoding" target="blank"><img src="https://img.shields.io/twitter/follow/dzeksoncoding?logo=twitter&style=for-the-badge" alt="dzeksoncoding" /></a> </p>
 
-- 🔭 I’m currently working on **...**
-
-- 📝 I regularly write articles on [https://x.com/dzeksoncoding](https://x.com/dzeksoncoding)
-
-- 💬 Ask me about **Frontend**
-
-- 📫 How to reach me **strojny2003@gmail.com**
-
-- ⚡ Fun fact **You can create ligma from gmail**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dzeksoncoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dzeksoncoding" height="30" width="40" /></a>
