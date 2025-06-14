@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">React & Next.JS developer</h3>
+<h3 align="center">React & Next.JS Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazylcossac&label=Profile%20views&color=0e75b6&style=flat" alt="bazylcossac" /> </p>
 
